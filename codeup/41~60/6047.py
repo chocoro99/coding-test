@@ -11,3 +11,6 @@ https://codeup.kr/problem.php?id=6047
 출력 예시
 8
 '''
+a,b = input().split(" ")
+a,b = int(a), int(b)
+print(a*(2**b))

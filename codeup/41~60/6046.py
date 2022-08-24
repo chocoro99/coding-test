@@ -10,3 +10,5 @@ https://codeup.kr/problem.php?id=6046
 출력 예시
 2048
 '''
+a = int(input())
+print(a*2)

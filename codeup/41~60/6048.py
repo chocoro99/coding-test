@@ -11,3 +11,9 @@ a가 b보다 작으면 True 를, a가 b보다 크거나 같으면 False 를 출�
 출력 예시
 True
 '''
+a,b = input().split(" ")
+a,b = int(a), int(b)
+if a < b :
+  print("True")
+elif a >= b :
+  print("False")

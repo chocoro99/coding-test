@@ -11,3 +11,5 @@ https://codeup.kr/problem.php?id=6042
 출력 예시
 3.14
 '''
+a = float(input())
+print(format(a,".2f"))

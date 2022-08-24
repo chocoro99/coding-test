@@ -16,3 +16,11 @@ https://codeup.kr/problem.php?id=6044
 1
 3.33
 '''
+a,b = input().split(" ")
+a,b = int(a), int(b)
+print(a+b)
+print(a-b)
+print(a*b)
+print(a//b)
+print(a%b)
+print(format((a/b),".2f"))

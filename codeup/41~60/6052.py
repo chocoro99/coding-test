@@ -10,3 +10,5 @@ https://codeup.kr/problem.php?id=6052
 출력 예시
 False
 '''
+a = int(input())
+print(bool(a))

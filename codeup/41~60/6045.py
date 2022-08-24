@@ -10,3 +10,6 @@ https://codeup.kr/problem.php?id=6045
 출력 예시
 6 2.00
 '''
+a,b,c = input().split(" ")
+a,b,c = int(a), int(b), int(c)
+print((a+b+c),(a+b+c)/3)

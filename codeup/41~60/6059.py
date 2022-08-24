@@ -11,3 +11,5 @@ https://codeup.kr/problem.php?id=6059
 출력 예시
 -3
 '''
+a = int(input())
+print(~a)

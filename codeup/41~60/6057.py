@@ -11,3 +11,10 @@ https://codeup.kr/problem.php?id=6057
 출력 예시
 True
 '''
+a,b = input().split(" ")
+a,b = int(a), int(b)
+
+if bool(a) == bool(b) :
+  print("True")
+else :
+  print("False")

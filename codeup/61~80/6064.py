@@ -11,3 +11,7 @@ https://codeup.kr/problem.php?id=6064
 출력 예시
 -1
 '''
+a,b,c = input().split(" ")
+a,b,c = int(a), int(b), int(c)
+
+print((a if(a<b) else b) if((a if(a<b) else b) < c) else c)

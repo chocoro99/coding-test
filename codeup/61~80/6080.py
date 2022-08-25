@@ -16,3 +16,9 @@ https://codeup.kr/problem.php?id=6080
 2 2
 2 3
 '''
+a,b = input().split(" ")
+a,b = int(a), int(b)
+
+for i in range(1, a+1) :
+    for z in range(1, b+1) :
+        print(i, z)

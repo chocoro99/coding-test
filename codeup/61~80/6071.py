@@ -26,3 +26,10 @@ https://codeup.kr/problem.php?id=6071
 2
 3
 '''
+while True :
+    a = int(input())
+    
+    if a == 0 :
+        break
+    else :
+        print(a)

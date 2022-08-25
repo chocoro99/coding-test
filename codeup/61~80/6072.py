@@ -14,3 +14,7 @@ https://codeup.kr/problem.php?id=6072
 2
 1
 '''
+a = int(input())
+
+for i in range(a) :
+    print(a-i)

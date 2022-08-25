@@ -24,3 +24,9 @@ d
 l
 q
 '''
+while True:
+    a = input()
+    if a == 'q':
+        break
+    else:
+        print(a)

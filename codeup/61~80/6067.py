@@ -15,3 +15,15 @@ https://codeup.kr/problem.php?id=6067
 출력 예시
 A
 '''
+a = int(input())
+
+if a < 0 :
+    if a % 2 == 0 :
+        print("A")
+    else :
+        print("B")
+elif a > 0 :
+    if a % 2 == 0 :
+        print("C")
+    else :
+        print("D")

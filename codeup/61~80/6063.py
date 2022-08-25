@@ -11,3 +11,7 @@ https://codeup.kr/problem.php?id=6063
 출력 예시
 456
 '''
+a,b = input().split(" ")
+a,b = int(a), int(b)
+
+print(a if(a>b) else b)

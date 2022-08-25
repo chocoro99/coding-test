@@ -11,3 +11,9 @@ f
 출력 예시
 a b c d e f
 '''
+a = ord(input())
+b = ord('a')
+
+while b<=a :
+  print(chr(b), end=' ')
+  b += 1

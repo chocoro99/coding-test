@@ -12,3 +12,16 @@ https://codeup.kr/problem.php?id=6079
 출력 예시
 10
 '''
+a = int(input())
+sum = 0
+i = 1
+
+while a >= sum :
+    if a > sum :
+        sum += i
+    else :
+        break
+    if a > sum :
+        i += 1
+
+print(i)

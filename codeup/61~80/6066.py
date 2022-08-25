@@ -12,3 +12,9 @@ odd
 even
 even
 '''
+a,b,c = input().split(" ")
+a,b,c = int(a), int(b), int(c)
+
+print("odd" if(a%2==0) else "even")
+print("odd" if(b%2==0) else "even")
+print("odd" if(c%2==0) else "even") 

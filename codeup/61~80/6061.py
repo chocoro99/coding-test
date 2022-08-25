@@ -11,3 +11,6 @@ https://codeup.kr/problem.php?id=6061
 출력 예시
 7
 '''
+a,b = input().split(" ")
+a,b = int(a), int(b)
+print(a|b)

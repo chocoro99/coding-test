@@ -14,3 +14,7 @@ https://codeup.kr/problem.php?id=6076
 3
 4
 '''
+a = int(input())
+
+for i in range(a+1):
+    print(i)

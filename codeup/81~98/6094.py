@@ -16,3 +16,14 @@ https://codeup.kr/problem.php?id=6094
 출력 예시
 2
 '''
+a = int(input())
+b = input().split(" ")
+n = 100
+
+for i in range(a):
+    b[i] = int(b[i])
+
+for z in range(a):
+    if n > b[z]:
+        n = b[z]
+print(n)        

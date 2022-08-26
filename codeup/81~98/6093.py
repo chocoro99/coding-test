@@ -16,3 +16,11 @@ https://codeup.kr/problem.php?id=6093
 출력 예시
 5 8 9 7 6 6 3 2 4 10
 '''
+a = int(input())
+b = input().split(" ")
+
+for z in range(a):
+    b[z] = int(b[z])
+
+for i in range(1, a+1):
+    print(b[a-i], end = ' ')

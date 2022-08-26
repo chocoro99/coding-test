@@ -25,3 +25,10 @@ n번째 수를 출력하는 프로그램을 만들어보자.
 출력 예시
 13
 '''
+a,b,c = input().split(" ")
+a,b,c = int(a), int(b), int(c)
+s = a
+
+for i in range(1, c):
+    s += b
+print(s)    

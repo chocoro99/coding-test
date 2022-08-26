@@ -19,3 +19,18 @@ https://codeup.kr/problem.php?id=6092
 출력 예시
 1 2 1 1 2 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 '''
+a = int(input())
+b = input().split(" ")
+c = []
+
+for i in range(24):
+    c.append(0)
+
+for z in range(a):
+    b[z] = int(b[z])
+
+for x in range(a):
+    c[b[x]] += 1    
+
+for v in range(1, 24):
+    print(c[v], end = ' ')

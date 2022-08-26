@@ -15,3 +15,10 @@ https://codeup.kr/problem.php?id=6087
 출력 예시
 1 2 4 5 7 8 10
 '''
+a = int(input())
+
+for i in range(1, a+1):
+    if i%3 == 0 :
+        pass
+    else :
+        print(i, end = " ")

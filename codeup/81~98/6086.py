@@ -20,3 +20,11 @@ https://codeup.kr/problem.php?id=6086
 출력 예시
 66
 '''
+a = int(input())
+s = 0
+
+for i in range(1, a+1) :
+    if a >= s :
+        s+=i
+
+print(s)    

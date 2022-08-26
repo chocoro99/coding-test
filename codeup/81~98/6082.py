@@ -11,3 +11,14 @@ https://codeup.kr/problem.php?id=6082
 출력 예시
 1 2 X 4 5 X 7 8 X
 '''
+a = int(input())
+
+for i in range(1, a+1) :
+    if i%10 == 3:
+        print("X", end = ' ')
+    elif i%10 == 6:
+        print("X", end = ' ')
+    elif i%10 == 9:
+        print("X", end = ' ')
+    else :
+        print(i, end = ' ')

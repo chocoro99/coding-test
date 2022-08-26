@@ -39,3 +39,21 @@ n개의 흰 돌이 놓인 위치를 출력하는 프로그램을 작성해보자
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 '''
+a = int(input())
+d = []
+
+for i in range(20):
+    d.append([])
+    for z in range(20):
+        d[i].append(0)
+        
+
+for i in range(a):
+    b,c = input().split(" ")
+    d[int(b)][int(c)] = 1
+
+
+for i in range(1, 20):
+    for z in range(1, 20):
+        print(d[i][z], end = ' ')
+    print()

@@ -59,3 +59,30 @@ n개의 좌표를 입력받아 십(+)자 뒤집기한 결과를 출력하는 프
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 '''
+a = []
+
+for i in range(19):
+    b = input().split(" ")
+    a.append(b)
+
+n = int(input())
+
+for i in range(n):
+    x,y = input().split(' ')
+    x,y = int(x), int(y)
+   
+    for v in range(19):
+        if a[x-1][v] == 0:
+             a[x-1][v] = 1
+        else :
+            a[x-1][v] = 0
+             
+        if a[v][y-1] == 0:
+            a[v][y-1] = 1
+        else :
+            a[v][y-1] = 0                     
+
+for z in range(19):
+    for v in range(19):
+        print(a[z][v], end = ' ')  
+    print()

@@ -28,3 +28,7 @@ https://codeup.kr/problem.php?id=6085
 출력 예시
 2.25 MB
 '''
+w,h,b = input().split(" ")
+w,h,b = int(w), int(h), int(b)
+
+print(format(((w*h)*b)/8/1024/1024, ".2f"), "MB")

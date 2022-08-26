@@ -21,3 +21,13 @@ https://codeup.kr/problem.php?id=6083
 1 1 1
 8
 '''
+a,b,c = input().split(" ")
+a,b,c = int(a), int(b), int(c)
+s = 0
+
+for i in range(a) :
+    for z in range(b) :
+        for x in range(c) :
+            print(i, z, x, sep = " ")
+            s+=1
+print(s)            

@@ -23,3 +23,12 @@ n번째 수를 출력하는 프로그램을 만들어보자.
 출력 예시
 -85
 '''
+a,b,c,d = input().split(" ")
+a,b,c,d = int(a), int(b), int(c), int(d)
+s = a
+
+for i in range(1, d):
+    s *= b
+    s += c
+    
+print(s)

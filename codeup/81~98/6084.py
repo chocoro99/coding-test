@@ -30,3 +30,7 @@ https://codeup.kr/problem.php?id=6084
 출력 예시
 1.7 MB
 '''
+h,b,c,s = input().split(" ")
+h,b,c,s = int(h), int(b), int(c), int(s)
+
+print(format(((h*b*c*s)/8/1024/1024),".1f"),"MB")

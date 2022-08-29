@@ -22,8 +22,37 @@
 2 4 5 4 6
 
 출력 조건
-- 첫째 줄에 큰 수의 법칙에 따라 더해진 답을 출력한다.
+- 첫째 줄에 큰 수의 법칙에 따라 더해진 답을 출력한다. 8번, 연속 3번x
 
 출력 예시
 46
 '''
+#n = 배열 크기, m = 더하는 횟수, k = 해당 배열의 숫자로 연속적으로 더하는 횟수 제한 배열만 다르면 제일 큰 숫자가 같아도 상관 x
+
+n,m,k = input().split(" ")
+n,m,k = int(n), int(m), int(k)
+num_list = input().split(" ")
+count = 1
+max_num = 0
+max_num2 = 0
+sum = 0
+
+for i in range(n):
+    num_list[i] = int(num_list[i])
+
+for i in range(n):  
+    if num_list[i] > max_num:
+        max_num2 = max_num
+        max_num = num_list[i]
+    elif num_list[i] == max_num:
+        max_num2 = num_list[i]       
+
+for i in range(m):
+    if count <= k:
+        count += 1
+        sum += max_num
+    elif count > k:
+        sum += max_num2
+        count = 1
+
+print(sum)

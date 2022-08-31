@@ -10,6 +10,7 @@ a b
 출력 예시
 b a
 '''
+# 문자가 출력되어야 함
 a,b = input().split()
 a,b = int(a),int(b)
 print(b,a)

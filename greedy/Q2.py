@@ -43,3 +43,23 @@
 출력 예시 2
 3
 '''
+# n*m = 카드 행과 열, 행 별로 묶어서 각 행의 가장 낮은 수들 중에서 가장 높은 수 출력
+
+n,m = map(int, input().split(" "))
+num_list = []
+k = []
+
+for i in range(n):
+    a = list(map(int, input().split(" ")))
+    num_list.append(a)
+
+for i in range(n):
+    k.append(num_list[i][0])
+    for z in range(m):
+        if num_list[i][z] < k[i]:            
+            k[i] = num_list[i][z]        
+
+for i in range(n-1):
+    if k[i] < k[i+1]:
+        k[0] = k[i+1]
+print(k[0])

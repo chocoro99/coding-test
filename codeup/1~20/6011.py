@@ -7,6 +7,7 @@ https://codeup.kr/problem.php?id=6011
 
 1.414213
 '''
+## 요건?
 a = input()
 a = int(a)
 print(a)

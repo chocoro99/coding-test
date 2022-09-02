@@ -20,3 +20,18 @@ N과 K가 주어질 때 N이 1이 될 때까지 1번 혹은 2번의 과정을 �
 출력 예시
 2
 '''
+# N = 1 만들기, 방법은 -1, 또는 N/K
+
+n,k = map(int, input().split(" "))
+count = 0
+
+while True:
+    if n == 1:
+        break
+    if n%k > 0:
+        n -= 1
+        count+=1
+    elif n%k == 0:
+        n/=k
+        count+=1
+print(count)

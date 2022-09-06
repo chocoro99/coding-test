@@ -27,3 +27,29 @@ a1
 출력 예시
 2
 '''
+a = input()                     # 나이트 좌표
+x,y = ord(a[0])-96, int(a[1])   # 좌표 숫자로 변환
+count = 0                       # 경우의 수
+
+if x+2 <= 8:
+    if y+1 <= 8:
+        count+=1
+    if y-1 >= 1:
+        count+=1
+if x-2 >= 1:
+    if y+1 <= 8:
+        count+=1
+    if y-1 >= 1:
+        count+=1
+if y+2 <= 8:
+    if x+1 <= 8:
+        count+=1
+    if x-1 >= 1:
+        count+=1
+if y-2 >= 1:
+    if x+1 <= 8:
+        count+=1
+    if x-1 >= 1:
+        count+=1        
+
+print(count)        

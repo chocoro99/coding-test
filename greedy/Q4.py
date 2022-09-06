@@ -25,3 +25,16 @@
 출력 예시
 2
 '''
+n = int(input())
+a = list(map(int,input().split()))  # 입력 받은 숫자 리스트
+p = 0                               # 현재 그룹 인원 수
+count = 0                           # 그룹 최댓값
+
+a.sort()                            # 숫자 작은 순 정렬
+
+for i in a:                         # 리스트 값으로 for 반복문, p = for 반복 할 때마다 +1, 
+    p += 1
+    if i == p:                      # 숫자가 낮은 순 정렬이기 때문에 i에 대입 되는 숫자가 p랑 같아야 그룹 형성
+        count+=1                    # 그룹 형성 시 count +1
+        p = 0                       # 그룹에 모인 사람 수 0으로 초기화
+print(count)

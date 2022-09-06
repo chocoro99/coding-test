@@ -63,3 +63,17 @@ for i in range(n-1):
     if k[i] < k[i+1]:
         k[0] = k[i+1]
 print(k[0])
+
+## 다른 풀이 -> for 문을 줄여보기!
+k = 0
+
+for i in range(n):
+    a = list(map(int, input().split()))
+
+    # 현재 줄에서 가장 작은 수를 바로 찾아와!
+    min_value = min(a)
+
+    # 가장 작은 수 중에서 가장 큰 수 찾기
+    k = max(k, min_value)
+
+print(k)

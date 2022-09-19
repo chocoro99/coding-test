@@ -31,3 +31,102 @@
 출력 조건
 - 첫째 줄에 이동을 마친 후 캐릭터가 방문한 칸의 수를 출력한다.
 """
+n, m = map(int, input().split(" "))  # 맵 크기 n*m
+a, b, d = map(int, input().split(" "))  # 좌표, 방향
+count = 1  # 방향 전환 횟수
+move = 0  # 이동 횟수
+player_map = []  # 맵 저장 리스트
+a -= 1  # 맵과 좌표 0,0 맞춤
+b -= 1
+
+for i in range(m):  # 맵 저장
+    p = list(map(int, input().split(" ")))
+    player_map.append(p)
+
+player_map[a][b] = 1
+d -= 1
+
+while True:
+    if d < 0:
+        d = 3
+
+    if d == 3 and b > 0:
+        if player_map[a][b - 1] != 1:
+            b -= 1
+            player_map[a][b] = 1
+            move += 1
+            count = 0
+        elif player_map[a][b + 1] != 1 and count >= 4:
+            b += 1
+            player_map[a][b] = 1
+            move += 1
+            count = 0
+        elif player_map[a][b + 1] == 1 and count >= 4:
+            break
+        else:
+            count += 1
+            d -= 1
+    elif d == 3 and b == 0:
+        count += 1
+        d -= 1
+
+    elif d == 2 and a < (m - 1):
+        if player_map[a + 1][b] != 1:
+            a += 1
+            player_map[a][b] = 1
+            move += 1
+            count = 0
+        elif player_map[a - 1][b] != 1 and count >= 4:
+            a -= 1
+            player_map[a][b] = 1
+            move += 1
+            count = 0
+        elif player_map[a - 1][b] == 1 and count >= 4:
+            break
+        else:
+            count += 1
+            d -= 1
+    elif d == 2 and a == (m - 1):
+        count += 1
+        d -= 1
+
+    elif d == 1 and b < (n - 1):
+        if player_map[a][b + 1] != 1 and b < n - 1:
+            b += 1
+            player_map[a][b] = 1
+            move += 1
+            count = 0
+        elif player_map[a][b - 1] != 1 and count >= 4:
+            b -= 1
+            player_map[a][b] = 1
+            move += 1
+            count = 0
+        elif player_map[a][b - 1] == 1 and count >= 4:
+            break
+        else:
+            count += 1
+            d -= 1
+    elif d == 1 and b == (n - 1):
+        count += 1
+        d -= 1
+
+    elif d == 0 and a > 0:
+        if player_map[a - 1][b] != 1 and a > 0:
+            a -= 1
+            player_map[a][b] = 1
+            move += 1
+            count = 0
+        elif player_map[a + 1][b] != 1 and count >= 4:
+            a += 1
+            player_map[a][b] = 1
+            move += 1
+            count = 0
+        elif player_map[a + 1][b] == 1 and count >= 4:
+            break
+        else:
+            count += 1
+            d -= 1
+    elif d == 0 and a == 0:
+        count += 1
+        d -= 1
+print(move)

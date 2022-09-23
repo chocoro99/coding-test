@@ -1,11 +1,3 @@
-"""
-예제 입력 1 
-2
-6 12 10
-30 50 72
-예제 출력 1 
-402
-1203"""
 t = int(input())
 for i in range(t):
     h, w, n = map(int, input().split(" "))

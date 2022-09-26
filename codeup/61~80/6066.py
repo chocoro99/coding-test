@@ -1,4 +1,4 @@
-'''
+"""
 [기초-조건/선택실행구조] 정수 3개 입력받아 짝/홀 출력하기
 https://codeup.kr/problem.php?id=6066
 
@@ -11,10 +11,10 @@ https://codeup.kr/problem.php?id=6066
 odd
 even
 even
-'''
-a,b,c = input().split(" ")
-a,b,c = int(a), int(b), int(c)
+"""
+a, b, c = input().split(" ")
+a, b, c = int(a), int(b), int(c)
 
-print("odd" if(a%2==0) else "even")
-print("odd" if(b%2==0) else "even")
-print("odd" if(c%2==0) else "even") 
+print("even" if (a % 2 == 0) else "odd")
+print("even" if (b % 2 == 0) else "odd")
+print("even" if (c % 2 == 0) else "odd")

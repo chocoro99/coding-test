@@ -1,4 +1,4 @@
-'''
+"""
 [기초-조건/선택실행구조] 평가 입력받아 다르게 출력하기
 https://codeup.kr/problem.php?id=6069
 
@@ -17,19 +17,16 @@ A
 
 출력 예시
 best!!!
-'''
-from re import A
-
-
+"""
 a = input()
 
-if a == "A" :
+if a == "A":
     print("best!!!")
-elif a == "B" :
+elif a == "B":
     print("good!!")
-elif a == "C" :
+elif a == "C":
     print("run!")
-elif a == "D" :
+elif a == "D":
     print("slowly~")
-else :
+else:
     print("what?")

@@ -1,4 +1,4 @@
-'''
+"""
 [기초-산술연산] 정수 3개 입력받아 합과 평균 출력하기
 https://codeup.kr/problem.php?id=6045
 
@@ -9,7 +9,7 @@ https://codeup.kr/problem.php?id=6045
 
 출력 예시
 6 2.00
-'''
-a,b,c = input().split(" ")
-a,b,c = int(a), int(b), int(c)
-print((a+b+c),(a+b+c)/3)
+"""
+a, b, c = input().split(" ")
+a, b, c = int(a), int(b), int(c)
+print((a + b + c), format(((a + b + c) / 3), ".2f"))

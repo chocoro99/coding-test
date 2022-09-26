@@ -1,4 +1,4 @@
-'''
+"""
 [기초-비교연산] 정수 2개 입력받아 비교하기3
 https://codeup.kr/problem.php?id=6050
 
@@ -10,11 +10,11 @@ b의 값이 a의 값 보다 크거나 같으면 True 를, 같지 않으면 False
 
 출력 예시
 False
-'''
-a,b = input().split(" ")
-a,b = int(a), int(b)
+"""
+a, b = input().split(" ")
+a, b = int(a), int(b)
 
-if a <= b :
-  print("True")
-elif a != b :
-  print("False")
+if a <= b:
+    print("True")
+else:
+    print("False")

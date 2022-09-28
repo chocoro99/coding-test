@@ -1,23 +1,3 @@
-"""zero = []
-one = []
-
-
-def fibonacci(n):
-    if n == 0:
-        zero.append(0)
-        return 0
-    elif n == 1:
-        one.append(1)
-        return 1
-    else:
-        return fibonacci(n - 1), fibonacci(n - 2)
-
-t = int(input())
-for i in range(t):
-    a = int(input())
-    fibonacci(a)
-    print(len(zero), len(one))
-"""
 zero = [1, 0, 1]
 one = [0, 1, 1]
 

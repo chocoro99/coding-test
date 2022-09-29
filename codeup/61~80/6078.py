@@ -1,4 +1,4 @@
-'''
+"""
 [기초-종합] 원하는 문자가 입력될 때까지 반복 출력하기
 https://codeup.kr/problem.php?id=6078
 
@@ -23,10 +23,11 @@ k
 d
 l
 q
-'''
+"""
 while True:
     a = input()
-    if a == 'q':
+    if a == "q":
+        print(a)
         break
     else:
         print(a)

@@ -1,4 +1,4 @@
-'''
+"""
 [기초-종합] 거기까지! 이제 그만~
 https://codeup.kr/problem.php?id=6086
 
@@ -19,12 +19,12 @@ https://codeup.kr/problem.php?id=6086
 
 출력 예시
 66
-'''
+"""
 a = int(input())
 s = 0
 
-for i in range(1, a+1) :
-    if a >= s :
-        s+=i
+for i in range(1, a + 1):
+    if a > s:
+        s += i
 
-print(s)    
+print(s)

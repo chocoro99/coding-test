@@ -1,4 +1,4 @@
-'''
+"""
 [기초-종합] 16진수 구구단 출력하기
 https://codeup.kr/problem.php?id=6081
 
@@ -28,8 +28,8 @@ B*C=84
 B*D=8F
 B*E=9A
 B*F=A5
-'''
+"""
 a = int(input(), 16)
 
-for i in range(1,16):
-    print("%X"%a,'*',"%X"%i,'=','%X'%(a*i))
+for i in range(1, 16):
+    print("%X" % a + "*" + "%X" % i + "=" + "%X" % (a * i))

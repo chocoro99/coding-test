@@ -1,4 +1,4 @@
-'''
+"""
 [기초-종합] 수 나열하기1
 https://codeup.kr/problem.php?id=6088
 
@@ -24,11 +24,7 @@ n번째 수를 출력하는 프로그램을 만들어보자.
 
 출력 예시
 13
-'''
-a,b,c = input().split(" ")
-a,b,c = int(a), int(b), int(c)
-s = a
+"""
+a, b, c = map(int, input().split(" "))
 
-for i in range(1, c):
-    s += b
-print(s)    
+print(a + (b * (c - 1)))

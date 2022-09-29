@@ -1,4 +1,4 @@
-'''
+"""
 [기초-리스트] 바둑알 십자 뒤집기
 https://codeup.kr/problem.php?id=6096
 
@@ -58,31 +58,31 @@ n개의 좌표를 입력받아 십(+)자 뒤집기한 결과를 출력하는 프
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-'''
+"""
 a = []
 
 for i in range(19):
-    b = input().split(" ")
+    b = list(map(int, input().split(" ")))
     a.append(b)
 
 n = int(input())
 
 for i in range(n):
-    x,y = input().split(' ')
-    x,y = int(x), int(y)
-   
+    x, y = map(int, input().split(" "))
+
     for v in range(19):
-        if a[x-1][v] == 0:
-             a[x-1][v] = 1
-        else :
-            a[x-1][v] = 0
-             
-        if a[v][y-1] == 0:
-            a[v][y-1] = 1
-        else :
-            a[v][y-1] = 0                     
+        if a[x - 1][v] == 0:
+            a[x - 1][v] = 1
+        elif a[x - 1][v] != 0:
+            a[x - 1][v] = 0
+
+        if a[v][y - 1] == 0:
+            a[v][y - 1] = 1
+        elif a[v][y - 1] != 0:
+            a[v][y - 1] = 0
+
 
 for z in range(19):
     for v in range(19):
-        print(a[z][v], end = ' ')  
+        print(a[z][v], end=" ")
     print()

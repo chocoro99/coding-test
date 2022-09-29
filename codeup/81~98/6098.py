@@ -1,4 +1,4 @@
-'''
+"""
 [기초-리스트] 성실한 개미
 https://codeup.kr/problem.php?id=6098
 
@@ -47,33 +47,31 @@ https://codeup.kr/problem.php?id=6098
 1 0 0 0 0 1 0 0 0 1
 1 0 0 0 0 0 0 0 0 1
 1 1 1 1 1 1 1 1 1 1
-'''
+"""
 l = []
-x,y = 1,1
+x, y = 1, 1
 
 for i in range(10):
     a = input().split(" ")
     l.append(a)
 
 while True:
-    if l[x][y] == '0':
+    if l[x][y] == "0":
         l[x][y] = 9
         y += 1
-        
-        if l[x][y] == '1':
-         x+=1
-         y-=1
-        if l[x][y] == '2':
+
+        if l[x][y] == "1":
+            x += 1
+            y -= 1
+        if l[x][y] == "2":
             l[x][y] = 9
-            print("check")
             break
-    elif l[x][y] == '1':
-        break   
+    elif l[x][y] == "1":
+        break
     else:
-        break         
-print() # 입력, 출력 구별 줄바꿈
+        break
 
 for i in range(10):
     for z in range(10):
-        print(l[i][z], end = ' ')
+        print(l[i][z], end=" ")
     print()

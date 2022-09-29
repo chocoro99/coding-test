@@ -1,4 +1,4 @@
-'''
+"""
 [기초-리스트] 설탕과자 뽑기
 https://codeup.kr/problem.php?id=6097
 
@@ -29,39 +29,33 @@ https://codeup.kr/problem.php?id=6097
 0 0 1 0 1
 0 0 1 0 1
 0 0 0 0 1
-'''
+"""
 l = []
-a,b = input().split(" ")                # 격자판 사이즈
-a,b = int(a), int(b)    
-c = int(input())                        # 막대 갯수
+a, b = map(int, input().split(" "))
+c = int(input())
 
-for i in range(a):                      # 격자판
+for i in range(a):
     l.append([])
     for z in range(b):
         l[i].append(0)
 
 
 for i in range(c):
-    d,e,x,y = input().split(" ")        # 막대 길이, 방향, 좌표(x,y)
-    d,e,x,y = int(d), int(e), int(x), int(y)
+    d, e, x, y = map(int, input().split(" "))
 
-    
-    if int(e)==0:
+    if int(e) == 0:
         for v in range(d):
-            if l[x-1][y-1+v] == 0:
-                l[x-1][y-1+v] = 1
+            if l[x - 1][y - 1 + v] == 0:
+                l[x - 1][y - 1 + v] = 1
             else:
-                l[x-1][y-1+v] = 1
-    else :
+                l[x - 1][y - 1 + v] = 1
+    else:
         for h in range(d):
-            if l[x-1+h][y-1] == 0:
-                l[x-1+h][y-1] = 1
+            if l[x - 1 + h][y - 1] == 0:
+                l[x - 1 + h][y - 1] = 1
             else:
-                l[x-1+h][y-1] = 1
-
-print() # 입력, 출력 구별 줄바꿈
-
+                l[x - 1 + h][y - 1] = 1
 for i in range(a):
     for z in range(b):
-        print(l[i][z], end = ' ')
-    print()        
+        print(l[i][z], end=" ")
+    print()

@@ -109,7 +109,7 @@
 
 | 난이도  | 문제                                                                         | 풀이 |
 | ------- | ---------------------------------------------------------------------------- | ---- |
-| Level 3 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  |      |
+| Level 3 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  | [입국심사](/javascript/programmers/입국심사.js) |
 | Level 4 | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  |      |
 | Level 4 | [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060) |      |
 | Gold 4  | [공유기 설치](https://www.acmicpc.net/problem/2110)                          |      |

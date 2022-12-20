@@ -147,7 +147,7 @@
 
 | 난이도  | 문제                                                                                                      | 풀이 |
 | ------- | --------------------------------------------------------------------------------------------------------- | ---- |
-| Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 |      |
+| Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 | [가장 비싼 상품 구하기](/mysql/가장비싼상품구하기.sql)     |
 | Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          |      |
 | Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         |      |
 | Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          |      |

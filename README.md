@@ -26,7 +26,7 @@
 | 난이도   | 문제                                                                          | 풀이                                               |
 | -------- | ----------------------------------------------------------------------------- | -------------------------------------------------- |
 | Level 1  | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)    | [K번째수.js](/javascript/programmers/K번째수.js)   |
-| Level 1  | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)     |                                                    |
+| Level 1  | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)     | [실패율](/javascript/programmers/실패율.js)        |
 | Level 2  | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [가장큰수.js](/javascript/programmers/가장큰수.js) |
 | Level 2  | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)    | [H-Index.js](/javascript/programmers/H-Index.js)   |
 | Silver 4 | [국영수](https://www.acmicpc.net/problem/10825)                               |                                                    |
@@ -149,7 +149,7 @@
 | ------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 | [가장 비싼 상품 구하기](/mysql/가장비싼상품구하기.sql) |
 | Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          | [최댓값 구하기](/mysql/최댓값구하기.sql)               |
-| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         |                                                        |
+| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         | [동물 수 구하기](/mysql/동물수구하기.sql)              |
 | Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          |                                                        |
 | Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          |                                                        |
 | Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |                                                        |

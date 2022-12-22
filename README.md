@@ -7,7 +7,7 @@
 | Level 1  | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)         | [최소직사각형.js](/javascript/programmers/최소직사각형.js) |
 | Level 1  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             | [모의고사.js](/javascript/programmers/모의고사.js)         |
 | Level 2  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            | [소수찾기.js](/javascript/programmers/소수찾기.js)         |
-| Level 2  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                 |                                                            |
+| Level 2  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                 | [카펫.js](/javascript/programmers/카펫.js)                 |
 | Level 2  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               |                                                            |
 | Level 2  | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |                                                            |
 | Level 2  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             |                                                            |
@@ -26,7 +26,7 @@
 | 난이도   | 문제                                                                          | 풀이                                               |
 | -------- | ----------------------------------------------------------------------------- | -------------------------------------------------- |
 | Level 1  | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)    | [K번째수.js](/javascript/programmers/K번째수.js)   |
-| Level 1  | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)     | [실패율](/javascript/programmers/실패율.js)        |
+| Level 1  | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)     | [실패율.js](/javascript/programmers/실패율.js)     |
 | Level 2  | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [가장큰수.js](/javascript/programmers/가장큰수.js) |
 | Level 2  | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)    | [H-Index.js](/javascript/programmers/H-Index.js)   |
 | Silver 4 | [국영수](https://www.acmicpc.net/problem/10825)                               |                                                    |
@@ -48,16 +48,16 @@
 
 ## 탐욕법(Greedy, 그리디)
 
-| 난이도   | 문제                                                                                  | 풀이                                        |
-| -------- | ------------------------------------------------------------------------------------- | ------------------------------------------- |
-| Level 1  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)             | [체육복](/javascript/programmers/체육복.js) |
-| Level 2  | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)           |                                             |
-| Level 2  | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)       |                                             |
-| Level 2  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)           |                                             |
-| Level 3  | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |                                             |
-| Level 3  | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)        |                                             |
-| Level 4  | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |                                             |
-| Silver 5 | [뒤집기](https://www.acmicpc.net/problem/1439)                                        |                                             |
+| 난이도   | 문제                                                                                  | 풀이                                           |
+| -------- | ------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Level 1  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)             | [체육복.js](/javascript/programmers/체육복.js) |
+| Level 2  | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)           |                                                |
+| Level 2  | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)       |                                                |
+| Level 2  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)           |                                                |
+| Level 3  | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |                                                |
+| Level 3  | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)        |                                                |
+| Level 4  | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |                                                |
+| Silver 5 | [뒤집기](https://www.acmicpc.net/problem/1439)                                        |                                                |
 
 <br>
 
@@ -107,12 +107,12 @@
 
 ## 이진탐색
 
-| 난이도  | 문제                                                                         | 풀이                                            |
-| ------- | ---------------------------------------------------------------------------- | ----------------------------------------------- |
-| Level 3 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  | [입국심사](/javascript/programmers/입국심사.js) |
-| Level 4 | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  |                                                 |
-| Level 4 | [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060) |                                                 |
-| Gold 4  | [공유기 설치](https://www.acmicpc.net/problem/2110)                          |                                                 |
+| 난이도  | 문제                                                                         | 풀이                                               |
+| ------- | ---------------------------------------------------------------------------- | -------------------------------------------------- |
+| Level 3 | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  | [입국심사.js](/javascript/programmers/입국심사.js) |
+| Level 4 | [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  |                                                    |
+| Level 4 | [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060) |                                                    |
+| Gold 4  | [공유기 설치](https://www.acmicpc.net/problem/2110)                          |                                                    |
 
 <br>
 
@@ -145,14 +145,14 @@
 
 ## SUM, MAX, MIN
 
-| 난이도  | 문제                                                                                                      | 풀이                                                   |
-| ------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 | [가장 비싼 상품 구하기](/mysql/가장비싼상품구하기.sql) |
-| Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          | [최댓값 구하기](/mysql/최댓값구하기.sql)               |
-| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         | [동물 수 구하기](/mysql/동물수구하기.sql)              |
-| Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          |                                                        |
-| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          |                                                        |
-| Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |                                                        |
+| 난이도  | 문제                                                                                                      | 풀이                                                       |
+| ------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 | [가장 비싼 상품 구하기.sql](/mysql/가장비싼상품구하기.sql) |
+| Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          | [최댓값 구하기.sql](/mysql/최댓값구하기.sql)               |
+| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         | [동물 수 구하기.sql](/mysql/동물수구하기.sql)              |
+| Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          | [최솟값 구하기.sql](/mysql/최솟값구하기.sql)               |
+| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          |                                                            |
+| Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |                                                            |
 
 <br>
 

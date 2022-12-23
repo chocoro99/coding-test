@@ -63,13 +63,13 @@
 
 ## 스택/큐
 
-| 난이도  | 문제                                                                                  | 풀이                                                   |
-| ------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Level 1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   |                                                        |
-| Level 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        | [올바른괄호.js](/javascript/programmers/올바른괄호.js) |
-| Level 2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)           | [기능개발.js](/javascript/programmers/기능개발.js)     |
-| Level 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)             | [프린터.js](/javascript/programmers/프린터.js)         |
-| Level 2 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |                                                        |
+| 난이도  | 문제                                                                                  | 풀이                                                             |
+| ------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Level 1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   | [같은 숫자는 싫어.js](/javascript/programmers/같은숫자는싫어.js) |
+| Level 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        | [올바른괄호.js](/javascript/programmers/올바른괄호.js)           |
+| Level 2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)           | [기능개발.js](/javascript/programmers/기능개발.js)               |
+| Level 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)             | [프린터.js](/javascript/programmers/프린터.js)                   |
+| Level 2 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |                                                                  |
 
 <br>
 
@@ -151,7 +151,7 @@
 | Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          | [최댓값 구하기.sql](/mysql/최댓값구하기.sql)               |
 | Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         | [동물 수 구하기.sql](/mysql/동물수구하기.sql)              |
 | Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          | [최솟값 구하기.sql](/mysql/최솟값구하기.sql)               |
-| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          |                                                            |
+| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          | [중복 제거하기.sql](/mysql/중복제거하기.sql)               |
 | Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) |                                                            |
 
 <br>

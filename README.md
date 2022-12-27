@@ -48,28 +48,28 @@
 
 ## 탐욕법(Greedy, 그리디)
 
-| 난이도   | 문제                                                                                  | 풀이                                                  |
-| -------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| Level 1  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)             | [체육복.js](/javascript/programmers/체육복.js)        |
-| Level 2  | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)           |                                                       |
-| Level 2  | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)       | [큰 수 만들기](/javascript/programmers/큰수만들기.js) |
-| Level 2  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)           |                                                       |
-| Level 3  | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |                                                       |
-| Level 3  | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)        |                                                       |
-| Level 4  | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |                                                       |
-| Silver 5 | [뒤집기](https://www.acmicpc.net/problem/1439)                                        |                                                       |
+| 난이도   | 문제                                                                                  | 풀이                                                     |
+| -------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Level 1  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)             | [체육복.js](/javascript/programmers/체육복.js)           |
+| Level 2  | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)           |                                                          |
+| Level 2  | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)       | [큰 수 만들기.js](/javascript/programmers/큰수만들기.js) |
+| Level 2  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)           |                                                          |
+| Level 3  | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |                                                          |
+| Level 3  | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)        |                                                          |
+| Level 4  | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |                                                          |
+| Silver 5 | [뒤집기](https://www.acmicpc.net/problem/1439)                                        |                                                          |
 
 <br>
 
 ## 스택/큐
 
-| 난이도  | 문제                                                                                  | 풀이                                                             |
-| ------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Level 1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   | [같은 숫자는 싫어.js](/javascript/programmers/같은숫자는싫어.js) |
-| Level 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        | [올바른괄호.js](/javascript/programmers/올바른괄호.js)           |
-| Level 2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)           | [기능개발.js](/javascript/programmers/기능개발.js)               |
-| Level 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)             | [프린터.js](/javascript/programmers/프린터.js)                   |
-| Level 2 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) |                                                                  |
+| 난이도  | 문제                                                                                  | 풀이                                                                 |
+| ------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Level 1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)   | [같은 숫자는 싫어.js](/javascript/programmers/같은숫자는싫어.js)     |
+| Level 2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)        | [올바른괄호.js](/javascript/programmers/올바른괄호.js)               |
+| Level 2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)           | [기능개발.js](/javascript/programmers/기능개발.js)                   |
+| Level 2 | [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)             | [프린터.js](/javascript/programmers/프린터.js)                       |
+| Level 2 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | [다리를 지나는 트럭.js](/javascript/programmers/다리를지나는트럭.js) |
 
 <br>
 
@@ -145,26 +145,26 @@
 
 ## SUM, MAX, MIN
 
-| 난이도  | 문제                                                                                                      | 풀이                                                                                 |
-| ------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 | [가장 비싼 상품 구하기.sql](/mysql/가장비싼상품구하기.sql)                           |
-| Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          | [최댓값 구하기.sql](/mysql/최댓값구하기.sql)                                         |
-| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         | [동물 수 구하기.sql](/mysql/동물수구하기.sql)                                        |
-| Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          | [최솟값 구하기.sql](/mysql/최솟값구하기.sql)                                         |
-| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          | [중복 제거하기.sql](/mysql/중복제거하기.sql)                                         |
-| Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | [가격이 제일 비싼 식품의 정보 출력하기](/mysql/가격이제일비싼식품의정보출력하기.sql) |
+| 난이도  | 문제                                                                                                      | 풀이                                                                                     |
+| ------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Level 1 | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                 | [가장 비싼 상품 구하기.sql](/mysql/가장비싼상품구하기.sql)                               |
+| Level 1 | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                          | [최댓값 구하기.sql](/mysql/최댓값구하기.sql)                                             |
+| Level 2 | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                         | [동물 수 구하기.sql](/mysql/동물수구하기.sql)                                            |
+| Level 2 | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                          | [최솟값 구하기.sql](/mysql/최솟값구하기.sql)                                             |
+| Level 2 | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                          | [중복 제거하기.sql](/mysql/중복제거하기.sql)                                             |
+| Level 2 | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115) | [가격이 제일 비싼 식품의 정보 출력하기.sql](/mysql/가격이제일비싼식품의정보출력하기.sql) |
 
 <br>
 
 ## IS NULL
 
-| 난이도  | 문제                                                                                                       | 풀이 |
-| ------- | ---------------------------------------------------------------------------------------------------------- | ---- |
-| Level 1 | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)               |      |
-| Level 1 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)        |      |
-| Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               |      |
-| Level 1 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) |      |
-| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           |      |
+| 난이도  | 문제                                                                                                       | 풀이                                                               |
+| ------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Level 1 | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)               | [이름이 있는 동물의 아이디.sql](/mysql/이름이있는동물의아이디.sql) |
+| Level 1 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)        |                                                                    |
+| Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               |                                                                    |
+| Level 1 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) |                                                                    |
+| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           |                                                                    |
 
 <br>
 

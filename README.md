@@ -53,7 +53,7 @@
 | Level 1  | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)             | [체육복.js](/javascript/programmers/체육복.js)           |
 | Level 2  | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)           |                                                          |
 | Level 2  | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)       | [큰 수 만들기.js](/javascript/programmers/큰수만들기.js) |
-| Level 2  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)           |                                                          |
+| Level 2  | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)           | [구명보트.js](/javascript/programmers/구명보트.js)       |
 | Level 3  | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |                                                          |
 | Level 3  | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)        |                                                          |
 | Level 4  | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |                                                          |
@@ -158,13 +158,13 @@
 
 ## IS NULL
 
-| 난이도  | 문제                                                                                                       | 풀이                                                               |
-| ------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| Level 1 | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)               | [이름이 있는 동물의 아이디.sql](/mysql/이름이있는동물의아이디.sql) |
-| Level 1 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)        |                                                                    |
-| Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               |                                                                    |
-| Level 1 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) |                                                                    |
-| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           |                                                                    |
+| 난이도  | 문제                                                                                                       | 풀이                                                                         |
+| ------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Level 1 | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)               | [이름이 있는 동물의 아이디.sql](/mysql/이름이있는동물의아이디.sql)           |
+| Level 1 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)        | [나이 정보가 없는 회원 수 구하기.sql](/mysql/나이정보가없는회원수구하기.sql) |
+| Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               |                                                                              |
+| Level 1 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) |                                                                              |
+| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           |                                                                              |
 
 <br>
 

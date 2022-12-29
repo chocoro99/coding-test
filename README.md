@@ -8,7 +8,7 @@
 | Level 1  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             | [모의고사.js](/javascript/programmers/모의고사.js)         |
 | Level 2  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            | [소수찾기.js](/javascript/programmers/소수찾기.js)         |
 | Level 2  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                 | [카펫.js](/javascript/programmers/카펫.js)                 |
-| Level 2  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               |                                                            |
+| Level 2  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               | [피로도.js](/javascript/programmers/피로도.js)             |
 | Level 2  | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |                                                            |
 | Level 2  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             |                                                            |
 | Level 2  | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          |                                                            |
@@ -162,7 +162,7 @@
 | ------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Level 1 | [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)               | [이름이 있는 동물의 아이디.sql](/mysql/이름이있는동물의아이디.sql)           |
 | Level 1 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)        | [나이 정보가 없는 회원 수 구하기.sql](/mysql/나이정보가없는회원수구하기.sql) |
-| Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               |                                                                              |
+| Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               | [이름이 없는 동물의 아이디.sql](/mysql/이름이없는동물의아이디.sql)           |
 | Level 1 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) |                                                                              |
 | Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           |                                                                              |
 

@@ -75,23 +75,23 @@
 
 ## 깊이/너비 우선 탐색(DFS/BFS)
 
-| 난이도   | 문제                                                                                | 풀이 |
-| -------- | ----------------------------------------------------------------------------------- | ---- |
-| Level 2  | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)        |      |
-| Level 2  | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  |      |
-| Level 2  | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)        |      |
-| Level 3  | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)         |      |
-| Level 3  | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)        |      |
-| Level 3  | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)      |      |
-| Level 3  | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)         |      |
-| Level 3  | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) |      |
-| Level 3  | [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)    |      |
-| Silver 2 | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)                      |      |
-| Silver 1 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                            |      |
-| Gold 5   | [경쟁적 전염](https://www.acmicpc.net/problem/18405)                                |      |
-| Gold 5   | [감시 피하기](https://www.acmicpc.net/problem/18428)                                |      |
-| Gold 5   | [인구 이동](https://www.acmicpc.net/problem/16234)                                  |      |
-| Gold 4   | [연구소](https://www.acmicpc.net/problem/14502)                                     |      |
+| 난이도   | 문제                                                                                | 풀이                                                |
+| -------- | ----------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Level 2  | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)        | [타겟 넘버.js](/javascript/programmers/타겟넘버.js) |
+| Level 2  | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  |                                                     |
+| Level 2  | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)        |                                                     |
+| Level 3  | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)         |                                                     |
+| Level 3  | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)        |                                                     |
+| Level 3  | [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)      |                                                     |
+| Level 3  | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)         |                                                     |
+| Level 3  | [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) |                                                     |
+| Level 3  | [블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)    |                                                     |
+| Silver 2 | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)                      |                                                     |
+| Silver 1 | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)                            |                                                     |
+| Gold 5   | [경쟁적 전염](https://www.acmicpc.net/problem/18405)                                |                                                     |
+| Gold 5   | [감시 피하기](https://www.acmicpc.net/problem/18428)                                |                                                     |
+| Gold 5   | [인구 이동](https://www.acmicpc.net/problem/16234)                                  |                                                     |
+| Gold 4   | [연구소](https://www.acmicpc.net/problem/14502)                                     |                                                     |
 
 <br>
 
@@ -164,7 +164,7 @@
 | Level 1 | [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)        | [나이 정보가 없는 회원 수 구하기.sql](/mysql/나이정보가없는회원수구하기.sql)                |
 | Level 1 | [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59039)               | [이름이 없는 동물의 아이디.sql](/mysql/이름이없는동물의아이디.sql)                          |
 | Level 1 | [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114) | [경기도에 위치한 식품창고 목록 출력하기.sql](/mysql/경기도에위치한식품창고목록출력하기.sql) |
-| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           |                                                                                             |
+| Level 2 | [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)                           | [NULL 처리하기.sql](/mysql/NULL처리하기.sql)                                                |
 
 <br>
 

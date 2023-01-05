@@ -10,7 +10,7 @@
 | Level 2  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                 | [카펫.js](/javascript/programmers/카펫.js)                 |
 | Level 2  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               | [피로도.js](/javascript/programmers/피로도.js)             |
 | Level 2  | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |                                                            |
-| Level 2  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             |                                                            |
+| Level 2  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             | [모음사전.js](/javascript/programmers/모음사전.js)         |
 | Level 2  | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          |                                                            |
 | Level 3  | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)        |                                                            |
 | Level 3  | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)       |                                                            |
@@ -173,7 +173,7 @@
 | 난이도  | 문제                                                                                                          | 풀이                                                      |
 | ------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | Level 1 | [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)                       | [동물의 아이디와 이름.sql](/mysql/동물의아이디와이름.sql) |
-| Level 1 | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)                            |                                                           |
+| Level 1 | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)                            | [상위 n개 레코드.sql](/mysql/상위n개레코드.sql)           |
 | Level 1 | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)                             |                                                           |
 | Level 1 | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)                     |                                                           |
 | Level 1 | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)                             |                                                           |

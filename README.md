@@ -97,11 +97,11 @@
 
 ## 최단 경로 : 힙(Heap) - 우선순위 큐
 
-| 난이도  | 문제                                                                               | 풀이 |
-| ------- | ---------------------------------------------------------------------------------- | ---- |
-| Level 3 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) |      |
-| Level 3 | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  |      |
-| Gold 4  | [플로이드](https://www.acmicpc.net/problem/11404)                                  |      |
+| 난이도  | 문제                                                                               | 풀이                                                            |
+| ------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Level 3 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | [디스크 컨트롤러.js](/javascript/programmers/디스크컨트롤러.js) |
+| Level 3 | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  | [이중우선순위큐.js](/javascript/programmers/이중우선순위큐.js)  |
+| Gold 4  | [플로이드](https://www.acmicpc.net/problem/11404)                                  |                                                                 |
 
 <br>
 

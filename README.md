@@ -170,26 +170,26 @@
 
 ## SELECT
 
-| 난이도  | 문제                                                                                                          | 풀이                                                      |
-| ------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Level 1 | [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)                       | [동물의 아이디와 이름.sql](/mysql/동물의아이디와이름.sql) |
-| Level 1 | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)                            | [상위 n개 레코드.sql](/mysql/상위n개레코드.sql)           |
-| Level 1 | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)                             |                                                           |
-| Level 1 | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)                     |                                                           |
-| Level 1 | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)                             |                                                           |
-| Level 1 | [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035)                              |                                                           |
-| Level 1 | [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)    |                                                           |
-| Level 1 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)                 |                                                           |
-| Level 1 | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) |                                                           |
-| Level 1 | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)       |                                                           |
-| Level 1 | [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024)                       |                                                           |
-| Level 1 | [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)                       |                                                           |
-| Level 1 | [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025)             |                                                           |
-| Level 1 | [조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853)          |                                                           |
-| Level 2 | [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120)      |                                                           |
-| Level 2 | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) |                                                           |
-| Level 4 | [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118)          |                                                           |
-| Level 4 | [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)      |                                                           |
+| 난이도  | 문제                                                                                                          | 풀이                                                                                        |
+| ------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Level 1 | [동물의 아이디와 이름](https://school.programmers.co.kr/learn/courses/30/lessons/59403)                       | [동물의 아이디와 이름.sql](/mysql/동물의아이디와이름.sql)                                   |
+| Level 1 | [상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)                            | [상위 n개 레코드.sql](/mysql/상위n개레코드.sql)                                             |
+| Level 1 | [아픈 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59036)                             | [아픈 동물 찾기.sql](/mysql/아픈동물찾기.sql)                                               |
+| Level 1 | [여러 기준으로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59404)                     | [여러 기준으로 정렬하기.sql](/mysql/여러기준으로정렬하기.sql)                               |
+| Level 1 | [어린 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59037)                             | [어린 동물 찾기.sql](/mysql/어린동물찾기.sql)                                               |
+| Level 1 | [역순 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/59035)                              | [역순 정렬하기.sql](/mysql/역순정렬하기.sql)                                                |
+| Level 1 | [강원도에 위치한 생산공장 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131112)    | [강원도에 위치한 생산공장 목록 출력하기.sql](/mysql/강원도에위치한생산공장목록출력하기.sql) |
+| Level 1 | [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)                 | [조건에 맞는 회원수 구하기.sql](/mysql/조건에맞는회원수구하기.sql)                          |
+| Level 1 | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) |                                                                                             |
+| Level 1 | [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201)       |                                                                                             |
+| Level 1 | [인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024)                       |                                                                                             |
+| Level 1 | [모든 레코드 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/59034)                       |                                                                                             |
+| Level 1 | [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025)             |                                                                                             |
+| Level 1 | [조건에 맞는 도서 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144853)          |                                                                                             |
+| Level 2 | [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120)      |                                                                                             |
+| Level 2 | [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) |                                                                                             |
+| Level 4 | [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118)          |                                                                                             |
+| Level 4 | [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537)      |                                                                                             |
 
 <br>
 

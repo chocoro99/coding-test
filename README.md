@@ -2,22 +2,22 @@
 
 ## 구현
 
-| 난이도   | 문제                                                                                    | 풀이                                                       |
-| -------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Level 1  | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)         | [최소직사각형.js](/javascript/programmers/최소직사각형.js) |
-| Level 1  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             | [모의고사.js](/javascript/programmers/모의고사.js)         |
-| Level 2  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            | [소수찾기.js](/javascript/programmers/소수찾기.js)         |
-| Level 2  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                 | [카펫.js](/javascript/programmers/카펫.js)                 |
-| Level 2  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               | [피로도.js](/javascript/programmers/피로도.js)             |
-| Level 2  | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |                                                            |
-| Level 2  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             | [모음사전.js](/javascript/programmers/모음사전.js)         |
-| Level 2  | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          |                                                            |
-| Level 3  | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)        |                                                            |
-| Level 3  | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)       |                                                            |
-| Level 3  | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)            |                                                            |
-| Bronze 2 | [럭키 스트레이트](https://www.acmicpc.net/problem/18406)                                |                                                            |
-| Gold 5   | [치킨 배달](https://www.acmicpc.net/problem/15686)                                      |                                                            |
-| Gold 4   | [뱀](https://www.acmicpc.net/problem/3190)                                              |                                                            |
+| 난이도   | 문제                                                                                    | 풀이                                                         |
+| -------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Level 1  | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)         | [최소직사각형.js](/javascript/programmers/최소직사각형.js)   |
+| Level 1  | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             | [모의고사.js](/javascript/programmers/모의고사.js)           |
+| Level 2  | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            | [소수찾기.js](/javascript/programmers/소수찾기.js)           |
+| Level 2  | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                 | [카펫.js](/javascript/programmers/카펫.js)                   |
+| Level 2  | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)               | [피로도.js](/javascript/programmers/피로도.js)               |
+| Level 2  | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) |                                                              |
+| Level 2  | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             | [모음사전.js](/javascript/programmers/모음사전.js)           |
+| Level 2  | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          |                                                              |
+| Level 3  | [자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)        |                                                              |
+| Level 3  | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)       |                                                              |
+| Level 3  | [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)            |                                                              |
+| Bronze 2 | [럭키 스트레이트](https://www.acmicpc.net/problem/18406)                                | [럭키 스트레이트.js](/javascript/baekjoon/럭키스트레이트.js) |
+| Gold 5   | [치킨 배달](https://www.acmicpc.net/problem/15686)                                      |                                                              |
+| Gold 4   | [뱀](https://www.acmicpc.net/problem/3190)                                              |                                                              |
 
 <br>
 
@@ -29,8 +29,8 @@
 | Level 1  | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)     | [실패율.js](/javascript/programmers/실패율.js)     |
 | Level 2  | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [가장큰수.js](/javascript/programmers/가장큰수.js) |
 | Level 2  | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)    | [H-Index.js](/javascript/programmers/H-Index.js)   |
-| Silver 4 | [국영수](https://www.acmicpc.net/problem/10825)                               |                                                    |
-| Silver 3 | [안테나](https://www.acmicpc.net/problem/18310)                               |                                                    |
+| Silver 4 | [국영수](https://www.acmicpc.net/problem/10825)                               | [국영수.js](/javascript/baekjoon/국영수.js)        |
+| Silver 3 | [안테나](https://www.acmicpc.net/problem/18310)                               | [안테나.js](/javascript/baekjoon/안테나.js)        |
 | Gold 4   | [카드 정렬하기](https://www.acmicpc.net/problem/1715)                         |                                                    |
 
 <br>
@@ -57,7 +57,7 @@
 | Level 3  | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)        |                                                          |
 | Level 3  | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)        |                                                          |
 | Level 4  | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) |                                                          |
-| Silver 5 | [뒤집기](https://www.acmicpc.net/problem/1439)                                        |                                                          |
+| Silver 5 | [뒤집기](https://www.acmicpc.net/problem/1439)                                        | [뒤집기.js](/javascript/baekjoon/뒤집기.js)              |
 
 <br>
 
